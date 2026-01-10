@@ -1,6 +1,6 @@
 +++
 title = 'My Third Post: We Demonstrate Images'
-date = 2026-01-10T10:15:00+05:30
+date = 2026-01-10T11:00:00+00:00
 draft = false
 +++
 
